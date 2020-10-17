@@ -1,1 +1,24 @@
-Git is application for 
+    Git is free open source destributes version control system designed
+to handle everything from small to large project with speed and efficiency.
+And git tracking changes files in working area (file in repository or folder).
+It designed for coordinating work among teams.
+    How to uses Git.
+    1.Install Git and create Github accout.
+    2.Create repository(folder) 
+        
+        mkdir (folder name)
+    
+    3.In repository or folder we make initialize repository with git init.
+        
+        git init
+    
+    4.In repository we will create file in it. If we need track file we must to tracking
+    file and staging with command 
+        
+        git add  
+
+    5.When we edit file that we add. We must commit and append message when we commit.
+
+        git commit -m "your message about commit"
+        
+         
