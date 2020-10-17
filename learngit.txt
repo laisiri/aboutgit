@@ -20,5 +20,5 @@ It designed for coordinating work among teams.
     5.When we edit file that we add. We must commit and append message when we commit.
 
         git commit -m "your message about commit"
-        
-         
+
+    https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners     
