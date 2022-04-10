@@ -2,7 +2,9 @@
 to handle everything from small to large project with speed and efficiency.
 And git tracking changes files in working area (file in repository or folder).
 It designed for coordinating work among teams.
+    
     How to uses Git.
+
     1.Install Git and create Github accout.
     2.Create repository(folder) 
         
@@ -34,10 +36,12 @@ It designed for coordinating work among teams.
 	
 	All git command and usage      
     ขั้นตอนการใช้งาน git
+    
     1. set git config
     In the repository 
     e:\repository>git config --global user.name "user name"
     e:\repository>git config --global user.email name@gmail.com
+    
     Again,you need to do this only once if you pass the --global option,because then Git will
     use that infomation for anything you do on that system. If you want to override this a different name or
     email addrees for specific projects,you can run the command without the --global option when you're in that project.
